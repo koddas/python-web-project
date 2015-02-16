@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+    <title>{{ title }}</title>
     <link rel='stylesheet' href='/static/stylesheets/style.css' />
   </head>
   <body>
