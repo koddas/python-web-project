@@ -65,7 +65,7 @@ def get_insult(name):
     return insult
 
 def pick_insult():
-    ''' Draw an insult at random from the pool of available FOAAS endpoints '''
+    ''' Draws an insult at random from the pool of available FOAAS endpoints '''
     endpoints = ["thanks", "fascinating", "because", "bye", "diabetes"]
     
     return endpoints[randint(0, 4)]
