@@ -57,4 +57,4 @@ header, you'll be fed a JSON response formed as
 
 The year is given as four digits, the month and day as two digits respectively.
 As an example, calling my birthday (*localhost:8081/insult/1981/06/16*) will
-return an insult by Axel (who, I presume, is no less than @axelolsson).
+return an insult by Axel (who, I presume, is no less than [@axelolsson](https://github.com/axelolsson)).
